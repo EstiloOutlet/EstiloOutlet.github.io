@@ -1,0 +1,24 @@
+body {
+    background-color: #545454;
+}
+.header {
+    background-color: rgb(116, 124, 121);
+    text-align: center;
+    border: solid;
+    border-radius: 30px;
+}
+.marcas {
+    background-color: #9c9c9c;
+    border: solid;
+    border-radius: 30px;
+}
+.disponiveis {
+    background-color: #9c9c9c;
+    border: solid;
+    border-radius: 30px;
+}
+.contatos {
+    background-color: #638a78;
+    border: solid;
+    border-radius: 30px;
+}
