@@ -6,19 +6,36 @@ body {
     text-align: center;
     border: solid;
     border-radius: 30px;
+    box-shadow: 2px 2px 2px 2px;
 }
 .marcas {
     background-color: #9c9c9c;
     border: solid;
     border-radius: 30px;
+    box-shadow: 2px 2px 2px 2px;
 }
 .disponiveis {
     background-color: #9c9c9c;
     border: solid;
     border-radius: 30px;
+    box-shadow: 2px 2px 2px 2px;
 }
 .contatos {
     background-color: #638a78;
     border: solid;
     border-radius: 30px;
+    box-shadow: 2px 2px 2px 2px;
+}
+.localidade {
+    background-color: #a4b3ac;
+    border-radius: 30px;
+    border: solid;
+    box-shadow: 2px 2px 2px 2px;
+}
+.endereco {
+    background-color: #638a78;
+    border: solid;
+    text-align: center;
+    border-radius: 20px;
+    margin: 30px 30px 30px 30px;
 }
